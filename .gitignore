@@ -1,0 +1,141 @@
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.directory
+
+# Ambientes Virtuais Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribuições Python
+*.py[cod]
+__pycache__/
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+package-lock.json
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+.vim/
+.emacs.d/
+*.code-workspace
+
+# Arquivos de Compilação e Build
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+*.app
+*.class
+
+# Arquivos Temporários
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+.~*
+
+# Logs
+*.log
+logs/
+
+# Documentos de Design
+*.bak
+*.backup
+# AutoCAD
+*.dwg.bak
+# Revit
+*.rvt.bak
+*.0001
+*.0002
+
+# Arquivos de Compressão
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.7z
+
+# Arquivos Específicos de Arquitetura
+*.dwg.lock
+.DS_Store
+
+# Imagens Temporárias e Cache
+.cache/
+*.cache
+Thumbs.db
+
+# Arquivos de Configuração Local
+.env
+.env.local
+.env.*.local
+config/local.js
+secrets/
+
+# Dependências e Pacotes
+node_modules/
+vendor/
+.bundle/
+
+# Resultados de Testes
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Arquivos de Lock de Versão (opcional - descomente se necessário)
+# Gemfile.lock
+# Pipfile.lock
+
+# Diretórios de Upload e Temporary
+uploads/
+temp/
+tmp/
+.tmp/
+
+# Arquivos de Banco de Dados
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE específicas
+.classpath
+.project
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
